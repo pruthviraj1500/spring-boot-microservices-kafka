@@ -4,29 +4,19 @@
 
 # Services Overview
 * Product Service
-
 * Order Service
-
 * Inventory Service
-
 * Notification Service
-
 * API Gateway using Spring Cloud Gateway MVC
 
 # Tech Stack
 The technologies used in this project are:
 * Spring Boot
-
 * Mongo DB
-
 * MySQL
-
 * Kafka
-
 * Keyclock
-
 * Test Containers with Wiremock
-
 * API Gateway using Spring Cloud Gateway MVC
 
 # Application Architecture
